@@ -50,9 +50,9 @@ button{
     height: 6vw;
     font-size: 4vw;
 }
-.big{
+img{
     width: 100%;
-    max-width: 200px;
+    max-width: 400px;
     height: auto;
 }
 
